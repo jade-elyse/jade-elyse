@@ -1,4 +1,13 @@
-### Hi there 👋
+<h3 align="center">
+  Hi! I'm Jade Nelson
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%40+BBC;Studying+%40+University+of+Glasgow;Second+Year+Graduate+Apprentice&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</p>
+
+
 
 <!--
 **jade-elyse/jade-elyse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jade-elyse&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD2287&fire=FFDA34&currStreakNum=FFE23E&currStreakLabel=FFE241&background=101223)](https://git.io/streak-stats) -->
