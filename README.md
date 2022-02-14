@@ -20,8 +20,8 @@
   <a href="https://github.com/jade-elyse/C-intro-programs"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=jade-elyse&repo=C-intro-programs&theme=nord&hide_border=true&title_color=F75C7ED5"></a>
 </p>
 
-<details>
-  <summary>Tools I've used :hammer_and_wrench:</summary>
+
+## Tools I've used :hammer_and_wrench:
 
 #### Programming Languages
 
@@ -62,7 +62,7 @@
   <b>Note:</b> The tools listed do not reflect my experience or skill level but only what I have used :D
   
 <!--   https://github.com/Ileriayo/markdown-badges#frameworks-platforms-and-libraries (if more need added)-->
-</details>
+
 
 <details>
   <summary>Some Stats 📈</summary>
