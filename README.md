@@ -15,9 +15,9 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/jade-elyse/react-website"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=jade-elyse&repo=react-website&theme=radical&hide_border=true"></a>
-  <a href="https://github.com/jade-elyse/tango_with_django_project"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=jade-elyse&repo=tango_with_django_project&theme=radical&hide_border=true"></a>
-  <a href="https://github.com/jade-elyse/C-intro-programs"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=jade-elyse&repo=C-intro-programs&theme=radical&hide_border=true"></a>
+  <a href="https://github.com/jade-elyse/react-website"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=jade-elyse&repo=react-website&theme=radical&hide_border=true&title_color=f75c7e"></a>
+  <a href="https://github.com/jade-elyse/tango_with_django_project"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=jade-elyse&repo=tango_with_django_project&theme=radical&hide_border=true&title_color=f75c7e"></a>
+  <a href="https://github.com/jade-elyse/C-intro-programs"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=jade-elyse&repo=C-intro-programs&theme=radical&hide_border=true&title_color=f75c7e"></a>
 </p>
 
 
@@ -71,13 +71,13 @@
 
 <p align="center">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=jade-elyse&show_icons=true&theme=radical&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jade-elyse&show_icons=true&theme=radical&hide_border=true&title_color=f75c7e"/>
   </a>
 </p>
 
 <p align="center">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jade-elyse&layout=compact&theme=radical&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jade-elyse&layout=compact&theme=radical&hide_border=true&title_color=f75c7e"/>
   </a>
 </p>
 
