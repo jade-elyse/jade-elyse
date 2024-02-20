@@ -81,6 +81,8 @@
   </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=jade-elyse&color=32a895&style=flat)
+
 </details>
 
 <!-- <p align="center">
