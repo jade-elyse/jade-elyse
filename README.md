@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=20&duration=6000&center=true&lines=Software+Engineer+%40+BBC;Studying+%40+University+of+Glasgow;Fourth+Year+Graduate+Apprentice">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=20&duration=6000&center=true&lines=Software+Engineer+%40+BBC;Studied+%40+University+of+Glasgow;Graduated+Apprentice">
 <p align="center">
   Currently I work as a Front-End Developer on the homepage team of the BBC 😄
 
